@@ -1,0 +1,7 @@
+{
+  "name": "DevNote",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
